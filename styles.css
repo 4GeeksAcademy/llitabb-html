@@ -1,0 +1,47 @@
+
+body{
+    background:black;
+    font-family: 'Roboto', sans-serif;
+}
+.post-header{
+    display: flex;
+    padding: 10px;
+}
+.title-photo{
+    width: 93%;
+    margin-top: 4px;
+    font-size: 15px;
+}
+.title-photo p{
+    margin:0;
+}
+.elipsis{
+    font-size: 27px;
+    padding: 5px;
+}
+div.post{
+    background: white;
+    margin-top: 20px;
+}
+.imghtml5{
+   font-size: 30px;
+   padding: 5px;
+}
+.iconos{
+    display: flex;
+    font-size: 30px;
+    padding: 10px;
+}
+.icons3{
+    width:95%;
+}
+div.contenido{
+    width: 600px;
+    margin:auto
+}
+img {
+    width: 100%;
+}
+.parrafo{
+    padding: 10px;
+}
