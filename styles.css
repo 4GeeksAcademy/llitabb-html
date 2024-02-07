@@ -32,8 +32,14 @@ div.post{
     font-size: 30px;
     padding: 10px;
 }
-.icons3{
-    width:95%;
+.icon-heart{
+    padding-right: 5px;
+}
+.icon-comment{
+    padding-right: 5px;
+}
+.icon-bookmark{
+    padding-left: 76%;
 }
 div.contenido{
     width: 600px;
